@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/home/jgruenbaum/.cache/pypoetry/virtualenvs/<env_name>",
+    "python.analysis.extraPaths": [],
+    
+    "files.exclude": {
+        ".mypy_cache": true,
+    }
+}
