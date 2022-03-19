@@ -1,3 +1,6 @@
+![Untitled_Artwork 5](https://user-images.githubusercontent.com/24437648/159130796-6966d033-863e-4e1b-8467-160637cce0a1.png)
+
+
 # Automater
 A framework to create, run, and schedule python scripts.
 
